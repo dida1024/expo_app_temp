@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "temp_app",
+    "slug": "temp_app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.dida1024.temp_app"
+    }
+  }
+}
